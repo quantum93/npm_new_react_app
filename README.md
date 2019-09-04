@@ -6,6 +6,9 @@ https://create-react-app.dev/
 https://reactjs.org/docs/create-a-new-react-app.html
 <hr/>
 https://material-ui.com/
+<hr/>
+For react router setup,
+https://create-react-app.dev/docs/adding-a-router#docsNav
 
 ## Available Scripts
 
