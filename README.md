@@ -1,4 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<hr/>
+https://create-react-app.dev/
 
 ## react components for this practice
 https://reactjs.org/docs/create-a-new-react-app.html
